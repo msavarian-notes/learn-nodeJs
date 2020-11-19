@@ -1,0 +1,15 @@
+{
+  "name": "node.samples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "00-ES-features-in-versions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon 01-Run_a_server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

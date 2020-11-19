@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-web_js-app",
+  "version": "0.0.0",
+  "description": "NodejsWeb_JsApp",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "typescript": "3.9.5"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-console_js-app",
+  "version": "0.0.0",
+  "description": "NodejsConsole_JsApp",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
